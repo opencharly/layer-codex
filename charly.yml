@@ -8,7 +8,7 @@ codex:
             that path and `codex --version` exits cleanly. A CUE-validated tmux
             terminal profile exposes it through the generic Charly agent channel.
         require:
-            - '@github.com/opencharly/layer-nodejs:v2026.239.1624'
+            - '@github.com/opencharly/layer-nodejs:v2026.272.0322'
         agent_provide:
             - provider: tmux
               protocol_version: 2
