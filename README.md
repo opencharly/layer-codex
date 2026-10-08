@@ -57,6 +57,5 @@ deterministic pin.
 - Owning skill: `/charly-coder:codex` — the npm-global install reference
 - Runtime parent: `/charly-coder:nodejs`
 - Sibling AI CLIs: `/charly-coder:claude-code`, `/charly-coder:gemini`
-- Bundled by: `/charly-openclaw:openclaw-full` (metalayer)
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
